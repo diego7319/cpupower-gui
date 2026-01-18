@@ -1,8 +1,8 @@
 cpupower-gui
 --------------------
-This program is designed to allow you to change the frequency limits of your cpu and its governor. The application is similar in functionality to `cpupower`. Forked from https://github.com/vagnum08/cpupower-gui since it required a fix  as tried here https://github.com/vagnum08/cpupower-gui/pull/139. 
+This program is designed to allow you to change the frequency limits of your cpu and its governor. The application is similar in functionality to `cpupower`. Forked from https://github.com/vagnum08/cpupower-gui since it required a fix found here https://github.com/vagnum08/cpupower-gui/pull/139. 
 
-[![GitHub release](https://img.shields.io/github/release/vagnum08/cpupower-gui.svg)](https://GitHub.com/vagnum08/cpupower-gui/releases/)
+[![GitHub release](https://img.shields.io/github/release/vagnum08/cpupower-gui.svg)](https://GitHub.com/diego7319/cpupower-gui/releases/)
 [![latest packaged version(s)](https://repology.org/badge/latest-versions/cpupower-gui.svg)](https://repology.org/project/cpupower-gui/versions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/vagnum08/cpupower-gui/blob/master/COPYING)
 [![GitHub repo size]( https://img.shields.io/github/repo-size/vagnum08/cpupower-gui.svg)](https://github.com/vagnum08/cpupower-gui/archive/master.zip)
