@@ -66,9 +66,5 @@ install_data('cpupower_gui.conf', install_dir: get_option('sysconfdir'))
 # Kernel modules configuration for extra governors
 install_data('scaling-governors.conf', install_dir: pkgdatadir)
 
-# Manual
-install_man('man/cpupower-gui.1')
-install_man('man/cpupower-gui.zh_CN.1', locale: 'zh_CN')
-
 subdir('services')
 subdir('polkit')
