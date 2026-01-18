@@ -37,7 +37,6 @@
     <developer_name>Evangelos Rigas</developer_name>
     <content_rating type="oars-1.1"/>
     <releases>
-        <releases>
      <release version="1.0.1" date="2026-01-18">
       <description>
         <p>Fix Python 3.14 compatibility issue with argparse and meson.build file changed to https://github.com/vagnum08/cpupower-gui/archive/v1.0.0.tar.gz</p>

@@ -1,6 +1,6 @@
 cpupower-gui
 --------------------
-This program is designed to allow you to change the frequency limits of your cpu and its governor. The application is similar in functionality to `cpupower`.
+This program is designed to allow you to change the frequency limits of your cpu and its governor. The application is similar in functionality to `cpupower`. Forked from https://github.com/vagnum08/cpupower-gui since it required a fix  as tried here https://github.com/vagnum08/cpupower-gui/pull/139. 
 
 [![GitHub release](https://img.shields.io/github/release/vagnum08/cpupower-gui.svg)](https://GitHub.com/vagnum08/cpupower-gui/releases/)
 [![latest packaged version(s)](https://repology.org/badge/latest-versions/cpupower-gui.svg)](https://repology.org/project/cpupower-gui/versions)
